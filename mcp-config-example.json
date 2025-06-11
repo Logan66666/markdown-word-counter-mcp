@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "markdown-word-counter": {
+      "command": "node",
+      "args": [
+        "d:/11_WorkSpace/markdown-word-counter-mcp/build/index.js"
+      ],
+      "env": {}
+    }
+  }
+}
