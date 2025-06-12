@@ -141,7 +141,7 @@ This is a [link](http://example.com) with **bold** text.
 ```
 
 Default result (preserves all Markdown syntax):
-- Chinese Characters: 4 (世界中文测试)
+- Chinese Characters: 4 (中文测试)
 - English Words: 13 (Hello This is a link http example com with bold text English test)
 - Total Words: 17
 
